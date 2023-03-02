@@ -1,0 +1,24 @@
+{
+	"Registration": {
+			"Email": "passed",
+			"Social": "passed",
+			"Valid_data": "passed"
+		},
+	
+	"Authorisation": {
+			"User_used": "passed",
+			"User_not_used": "",
+			"Recovery_pass": "passed",
+			"Valid_data": "passed",
+		},
+	
+	"Profile": {
+			"Edit_username": "passed",
+			"Edit_email": "passed",
+			"Edit_pass": "passed",
+			"Valid_data": "passed",
+			"subscription": "passed",
+			"Delete_account": "passed",
+
+		}
+}
